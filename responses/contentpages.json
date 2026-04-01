@@ -9,8 +9,8 @@
       "_type": "CommonUI Simple Message",
       "message": {
         "_type": "CommonUI Simple Message Base",
-        "title": "Reload Backend",
-        "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin"
+        "title": "Aura Backend",
+        "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced."
       }
     },
     "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -209,21 +209,21 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://i.imgur.com/ImIwpRm.png",
+          "image": "https://uwuxxx.github.io/image/news2.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "DISCORD!",
-          "title": "Reload Backend",
+          "title": "Aura Backend",
           "body": "Made by burlone413",
           "spotlight": false
         },
         {
-          "image": "https://i.imgur.com/ImIwpRm.png",
+          "image": "https://uwuxxx.github.io/image/news2.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Reload Backend",
-          "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin",
+          "title": "Aura Backend",
+          "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced.",
           "spotlight": false
         }
       ]
@@ -1192,10 +1192,10 @@
       "tournaments": [
         {
           "title_color": "FFFFFF",
-          "loading_screen_image": "https://i.imgur.com/ImIwpRm.png",
+          "loading_screen_image": "https://uwuxxx.github.io/image/news2.png",
           "background_text_color": "1B1B1B",
           "background_right_color": "DD091A",
-          "poster_back_image": "https://i.imgur.com/ImIwpRm.png",
+          "poster_back_image": "https://uwuxxx.github.io/image/news2.png",
           "_type": "Tournament Display Info",
           "pin_earned_text": "Burlone is the winner!",
           "tournament_display_id": "s11_switchcup",
@@ -1203,7 +1203,7 @@
           "schedule_info": "November 2nd & 3rd: 2pm - 5pm JST",
           "primary_color": "FFFFFF",
           "flavor_description": "cool",
-          "poster_front_image": "https://i.imgur.com/ImIwpRm.png",
+          "poster_front_image": "https://uwuxxx.github.io/image/news2.png",
           "short_format_title": "Event Sessions",
           "title_line_2": "boomer",
           "title_line_1": "Solo",
@@ -1213,7 +1213,7 @@
           "long_format_title": "nice",
           "poster_fade_color": "DD091A",
           "secondary_color": "1B1B1B",
-          "playlist_tile_image": "https://i.imgur.com/ImIwpRm.png",
+          "playlist_tile_image": "https://uwuxxx.github.io/image/news2.png",
           "base_color": "FFFFFF"
         }
       ],
@@ -1232,8 +1232,8 @@
         {
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "Reload Backend",
-          "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin",
+          "title": "Aura Backend",
+          "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced.",
           "spotlight": true
         }
       ]
@@ -1257,8 +1257,8 @@
           "gamemodes": [],
           "hidden": false,
           "_type": "CommonUI Emergency Notice Base",
-          "title": "Reload Backend",
-          "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin"
+          "title": "Aura Backend",
+          "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced."
         }
       ]
     },
@@ -6256,26 +6256,65 @@
       "motds": [
         {
           "entryType": "Website",
-          "image": "https://i.imgur.com/ImIwpRm.png",
-          "tileImage": "https://i.imgur.com/KaJkHgq.png",
+          "image": "https://uwuxxx.github.io/image/news2.png",
+          "tileImage": "https://uwuxxx.github.io/image/news2.png",
           "videoMute": false,
           "hidden": false,
-          "tabTitleOverride": "Reload Backend",
+          "tabTitleOverride": "Aura Backend",
           "_type": "CommonUI Simple Message MOTD",
-          "title": "Welcome to Reload!",
-          "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin",
+          "title": "Welcome to Aura!",
+          "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced.",
           "offerAction": "ShowOfferDetails",
           "videoLoop": false,
           "videoStreamingEnabled": false,
           "sortingPriority": 1,
-          "websiteButtonText": "Reload Backend - Github",
-          "websiteURL": "https://github.com/Project-Reload/Reload-Backend",
+          "websiteButtonText": "Aura Backend - Source Code",
+          "websiteURL": "https://github.com/uwuxxx/Aura-Backend",
           "id": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
           "videoAutoplay": false,
           "videoFullscreen": false,
           "spotlight": false
         }
       ],
+
+
+      "tournamentinformation": {
+        "tournament_info": {
+          "tournaments": [
+            {
+              "title_color": "FFFFFF",
+              "loading_screen_image": "https://i.imgur.com/eed6kpg.jpeg",
+              "background_text_color": "BF40BF",
+              "background_right_color": "BF40BF",
+              "poster_back_image": "https://i.imgur.com/eed6kpg.jpeg",
+              "_type": "Tournament Display Info",
+              "pin_earned_text": "No winners yet",
+              "tournament_display_id": "AuraTournament",
+              "highlight_color": "BF40BF",
+              "schedule_info": "May 11th",
+              "primary_color": "FFFFFF",
+              "flavor_description": "",
+              "poster_front_image": "https://i.imgur.com/eed6kpg.jpeg",
+              "short_format_title": "Event Sessions",
+              "title_line_1": "Test Tournament",
+              "shadow_color": "BF40BF",
+              "details_description": "",
+              "background_left_color": "F81B2D",
+              "long_format_title": "",
+              "poster_fade_color": "BF40BF",
+              "secondary_color": "BF40BF",
+              "playlist_tile_image": "https://i.imgur.com/eed6kpg.jpeg",
+              "base_color": "FFFFFF"
+            }
+          ],
+          "_type": "Tournaments Info"
+        },
+        "_title": "tournamentinformation",
+        "_noIndex": false,
+        "_activeDate": "2025-01-01T00:00:00.734Z",
+        "lastModified": "2025-01-01T00:00:00.734Z",
+        "_locale": "en-US"
+      },
       "platform_messages": [
         {
           "hidden": false,
@@ -6297,9 +6336,9 @@
           "image": "https://i.imgur.com/2RImwlb.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "Reload Backend",
-          "title": "Reload Backend",
-          "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin",
+          "adspace": "Aura Backend",
+          "title": "Aura Backend",
+          "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced.",
           "spotlight": false
         }
       ]
@@ -6354,7 +6393,7 @@
           "bHidden": false,
           "sectionId": "Featured",
           "bShowTimer": true,
-          "sectionDisplayName": "Reload Item Shop",
+          "sectionDisplayName": "Aura Item Shop",
           "bShowIneligibleOffers": true
         }
       ]
@@ -6370,12 +6409,12 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://i.imgur.com/ImIwpRm.png",
+          "image": "https://uwuxxx.github.io/image/news2.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Reload Backend",
-          "body": "Created by Burlone, This is a modded backend, all main backend credits to lawin!",
+          "title": "Aura Backend",
+          "body": "Welcome to Aura private server, Aura is still in beta version please be paient until offical release is announced.!",
           "spotlight": false
         }
       ]
