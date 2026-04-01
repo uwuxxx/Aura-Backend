@@ -1,0 +1,120 @@
+{
+	"events": [
+		{
+			"gameId": "Fortnite",
+			"eventId": "AuraTournament",
+			"regions": [
+				"EU"
+			],
+			"regionMappings": {},
+			"platforms": [
+				"XboxOneGDK",
+				"PS4",
+				"XboxOne",
+				"XSX",
+				"Android",
+				"PS5",
+				"Switch",
+				"Windows"
+			],
+			"platformMappings": {},
+			"displayDataId": "AuraTournament",
+			"eventGroup": "",
+			"announcementTime": "2025-02-20T00:00:00.000Z",
+			"appId": null,
+			"environment": null,
+			"metadata": {
+				"minimumAccountLevel": 0
+			},
+			"eventWindows": [
+				{
+					"eventWindowId": "AuraTournament_Event1",
+					"eventTemplateId": "EventTemplate_AuraTournament",
+					"countdownBeginTime": "2025-03-10T17:00:00.000Z",
+					"beginTime": "2025-03-10T19:00:00.000Z",
+					"endTime": "2025-03-10T22:00:00.000Z",
+					"blackoutPeriods": [],
+					"round": 1,
+					"payoutDelay": 0,
+					"isTBD": false,
+					"canLiveSpectate": true,
+					"scoreLocations": [],
+					"visibility": "unlocked",
+					"requireAllTokens": [],
+					"requireAnyTokens": [],
+					"requireNoneTokensCaller": [],
+					"requireAllTokensCaller": [],
+					"requireAnyTokensCaller": [],
+					"additionalRequirements": [],
+					"teammateEligibility": "all",
+					"metadata": {
+						"ServerReplays": true,
+						"RoundType": "Qualifiers"
+					}
+				}
+			],
+			"beginTime": "2025-03-10T19:00:00.000Z",
+			"endTime": "2025-03-10T22:00:00.000Z"
+		}
+	],
+	"player": {},
+	"scores": [],
+	"templates": [
+		{
+			"gameId": "Fortnite",
+			"eventTemplateId": "EventTemplate_EraTournament",
+			"playlistId": "Playlist_ShowdownTournament_Solo",
+			"matchCap": 10,
+			"liveSessionAttributes": [],
+			"scoringRules": [
+				{
+					"matchRule": "lte",
+					"rewardTiers": [
+						{
+							"keyValue": 1,
+							"multiplicative": false,
+							"pointsEarned": 30
+						},
+						{
+							"keyValue": 2,
+							"multiplicative": false,
+							"pointsEarned": 5
+						},
+						{
+							"keyValue": 3,
+							"multiplicative": false,
+							"pointsEarned": 3
+						},
+						{
+							"keyValue": 5,
+							"multiplicative": false,
+							"pointsEarned": 3
+						},
+						{
+							"keyValue": 10,
+							"multiplicative": false,
+							"pointsEarned": 2
+						},
+						{
+							"keyValue": 25,
+							"multiplicative": false,
+							"pointsEarned": 2
+						}
+					],
+					"trackedStat": "PLACEMENT_STAT_INDEX"
+				},
+				{
+					"matchRule": "gte",
+					"rewardTiers": [
+						{
+							"keyValue": 1,
+							"multiplicative": true,
+							"pointsEarned": 1
+						}
+					],
+					"trackedStat": "TEAM_ELIMS_STAT_INDEX"
+				}
+			]
+		}
+	]
+}
